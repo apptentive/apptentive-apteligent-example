@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.apptentive.android.sdk.Apptentive;
 import com.crittercism.app.Crittercism;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,9 +16,9 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 
 		boolean crashedOnLastLoad = Crittercism.didCrashOnLastLoad();
-
 		if (crashedOnLastLoad) {
 			Toast.makeText(this, "Crashed on last load", Toast.LENGTH_SHORT).show();
+			Apptentive.engage(this, "app_crashed");
 		}
 	}
 
