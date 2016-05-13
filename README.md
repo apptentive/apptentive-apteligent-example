@@ -11,7 +11,9 @@ This repository demonstrates how to integrate Apteligent's Crittercism crash rep
 
 ### Example App
 
-This example app has a single button that causes the app to crash
+This example app has a single button that causes the app to crash.
+
+In order to use it, you will need to create an account with Apteligent and Apptentive, and copy your Apteligent App ID, and Apptentive API Key into `App.java`.
 
 ![](https://raw.githubusercontent.com/apptentive/apptentive-crittercism-example/master/images/Crash%20The%20App.png?token=AA7s5mbrD4tlTg1IsQ0zh1n2PRCEvMNEks5XPljUwA%3D%3D)
 
