@@ -18,8 +18,8 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wxk-7N-Gax">
-                                <rect key="frame" x="278" y="285" width="45" height="30"/>
-                                <state key="normal" title="Crash!"/>
+                                <rect key="frame" x="251" y="285" width="99" height="30"/>
+                                <state key="normal" title="Crash the App"/>
                                 <connections>
                                     <action selector="crash:" destination="BYZ-38-t0r" eventType="touchUpInside" id="JbP-pn-xRf"/>
                                 </connections>

@@ -22,6 +22,7 @@
 		01185A921D01F06500CDEB6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01185A951D01F06500CDEB6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01185A971D01F06500CDEB6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01185A9E1D02211600CDEB6B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		01185A7F1D01F06500CDEB6B = {
 			isa = PBXGroup;
 			children = (
+				01185A9E1D02211600CDEB6B /* README.md */,
 				01185A8A1D01F06500CDEB6B /* ApteligentExample */,
 				01185A891D01F06500CDEB6B /* Products */,
 			);
@@ -286,6 +288,7 @@
 				01185A9C1D01F06500CDEB6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

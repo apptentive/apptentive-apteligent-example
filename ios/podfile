@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'ApteligentExample' do
+       pod 'apptentive-ios', '~> 3'
+       pod 'CrittercismSDK'
+end

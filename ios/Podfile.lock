@@ -1,0 +1,15 @@
+PODS:
+  - apptentive-ios (3.0.0)
+  - CrittercismSDK (5.6.0)
+
+DEPENDENCIES:
+  - apptentive-ios (~> 3)
+  - CrittercismSDK
+
+SPEC CHECKSUMS:
+  apptentive-ios: 219a23dd081d942bf8348a502ae3f574afd61889
+  CrittercismSDK: c692ad3963048c359c443c7f28634c3ab2a27110
+
+PODFILE CHECKSUM: 156604394df20c40004747d706b55d8fc6cc8cd4
+
+COCOAPODS: 1.0.0
