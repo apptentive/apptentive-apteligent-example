@@ -1,0 +1,36 @@
+# Mac OS
+.DS_Store
+
+# Gradle
+.gradle
+
+# Android
+local.properties
+gen/
+out/
+bin/
+build/
+
+# IntelliJ
+*.iws
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries
+
+# Eclipse
+.settings
+.metadata
+
+# Xcode
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# CocoaPods
+Pods/
