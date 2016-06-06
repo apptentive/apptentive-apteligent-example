@@ -15,12 +15,12 @@ This example app has a single button that causes the app to crash.
 
 In order to use it, you will need to create an account with Apteligent and Apptentive, and copy your Apteligent App ID, and Apptentive API Key into `App.java`.
 
-![](https://raw.githubusercontent.com/apptentive/apptentive-apteligent-example/fix_screenshots/android/images/Crash%20The%20App.png)
+![](https://raw.githubusercontent.com/apptentive/apptentive-apteligent-example/master/android/images/Crash%20The%20App.png)
 
 When the app crashes, it is set up to engage an event called `app_crashed` the next time it opens. You can configure the `app_crashed` event to launch a Note.
 
-![](https://raw.githubusercontent.com/apptentive/apptentive-apteligent-example/fix_screenshots/android/images/Note.png)
+![](https://raw.githubusercontent.com/apptentive/apptentive-apteligent-example/master/android/images/Note.png)
 
 This particular note will open the Apptentive Message Center if a user taps *Yes*. 
 
-![](https://raw.githubusercontent.com/apptentive/apptentive-apteligent-example/fix_screenshots/android/images/Message%20Center.png)
+![](https://raw.githubusercontent.com/apptentive/apptentive-apteligent-example/master/android/images/Message%20Center.png)
